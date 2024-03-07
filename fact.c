@@ -1,7 +1,7 @@
 // C program to implement the above approach
 #include <stdio.h>
 
-// Function to find factorial of given number
+// Below is the Function which finds factorial of given numbers
 unsigned int factorial(unsigned int n)
 {
 	int result = 1, i;
