@@ -1,7 +1,7 @@
 // C program to find the maximum number out of the three
 // given numbers using if-else statement
 #include <stdio.h>
-
+#to get the biggest of 3 numbers
 int main()
 {
 	int A, B, C;
